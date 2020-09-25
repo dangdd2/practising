@@ -1,1 +1,1 @@
-File 2 - my branch 2 content
+Master 2 - my branch 2 content
